@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1044923628766",
+    "project_id": "d2home-3e6ec",
+    "storage_bucket": "d2home-3e6ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044923628766:android:29f5949ad675e3b345964f",
+        "android_client_info": {
+          "package_name": "com.d2home.d2deliveryman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044923628766-endphl3qlimr47dr59fcn8av3rqgjgc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKvOqkXllc0VS2TmInO1rzpPNVraH1HPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044923628766-endphl3qlimr47dr59fcn8av3rqgjgc4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044923628766:android:8b7932ad321f937345964f",
+        "android_client_info": {
+          "package_name": "com.d2home.d2restaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044923628766-endphl3qlimr47dr59fcn8av3rqgjgc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKvOqkXllc0VS2TmInO1rzpPNVraH1HPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044923628766-endphl3qlimr47dr59fcn8av3rqgjgc4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
